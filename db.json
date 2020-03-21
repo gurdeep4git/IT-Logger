@@ -1,0 +1,40 @@
+{
+    "logs": [
+        {
+            "id": 1,
+            "message": "Changed Monitor on workstation 001",
+            "attention": true,
+            "date": "03-02-2019",
+            "tech": "Sam Smith"
+        },
+        {
+            "id": 2,
+            "message": "Changed Hard drive on workstation 001",
+            "attention": false,
+            "date": "05-02-2019",
+            "tech": "John Williams"
+        }
+    ],
+    "techs": [
+        {
+            "id": 1,
+            "firstName": "Sam",
+            "lastName": "Smith"
+        },
+        {
+            "id": 2,
+            "firstName": "John",
+            "lastName": "Williams"
+        },
+        {
+            "id": 3,
+            "firstName": "John",
+            "lastName": "Doe"
+        },
+        {
+            "firstName": "Sara",
+            "lastName": "Logan",
+            "id": 4
+        }
+    ]
+}
