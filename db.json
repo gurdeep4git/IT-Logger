@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Network issue on workstation 1123",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-03-22T13:02:10.957Z",
-      "id": 1
+      "id": 1,
+      "message": "Network issue on workstation 1123 - Fixed",
+      "attention": false,
+      "tech": "Gurdeep singh",
+      "date": "2020-03-23T03:54:08.448Z"
     },
     {
       "id": 2,
@@ -13,6 +13,13 @@
       "attention": false,
       "tech": "John Doe",
       "date": "2020-03-22T13:45:39.485Z"
+    },
+    {
+      "message": "Office added on WK 004",
+      "attention": false,
+      "tech": "Gurdeep Singh",
+      "date": "2020-03-22T14:40:31.688Z",
+      "id": 3
     }
   ],
   "techs": [
@@ -35,6 +42,21 @@
       "firstName": "Sara",
       "lastName": "Logan",
       "id": 4
+    },
+    {
+      "firstName": "Brad",
+      "lastName": "Pitt",
+      "id": 6
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Simpsons",
+      "id": 7
+    },
+    {
+      "firstName": "Gurdeep",
+      "lastName": "singh",
+      "id": 8
     }
   ]
 }
